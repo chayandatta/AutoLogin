@@ -15,3 +15,5 @@ _IEAction ($button,"click")
 
 
 EndFunc
+
+RunWait('taskkill /F /IM "iexplore.exe"')
