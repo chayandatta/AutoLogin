@@ -1,4 +1,5 @@
-# AutoLogin
+# AutoLogin [![HitCount](http://hits.dwyl.io/chayandatta/AutoLogin.svg)](http://hits.dwyl.io/chayandatta/AutoLogin)
+
 everyone must remember those days when we didn't have dynamic ip(internet protocol) address, then we had static ip address. And had to use the internet provider's page(http://1.1.1.1) to login and to connect to the internet.
 
 I had the same thing but it was not good, we had to open the page and put the account name and password every 2-3 hours or we'll be disconnected to the internet , yes we can save the address in the browser but we have to again do the dropdown and click the login button, you know the dumb process.
